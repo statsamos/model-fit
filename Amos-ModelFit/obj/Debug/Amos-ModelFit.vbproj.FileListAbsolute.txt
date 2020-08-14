@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos-ModelFit\Amos-ModelFit\obj\Debug\Amos-ModelFit.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos-ModelFit\Amos-ModelFit\obj\Debug\Amos-ModelFit.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos-ModelFit\Amos-ModelFit\obj\Debug\Amos-ModelFit.pdb
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelFit.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelFit.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-ModelFit\Amos-ModelFit\obj\Debug\Amos-ModelFit.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-ModelFit\Amos-ModelFit\obj\Debug\Amos-ModelFit.pdb
