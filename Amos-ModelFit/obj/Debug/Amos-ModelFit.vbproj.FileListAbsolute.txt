@@ -5,3 +5,9 @@ C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelFit.dll
 C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelFit.pdb
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-ModelFit\Amos-ModelFit\obj\Debug\Amos-ModelFit.dll
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-ModelFit\Amos-ModelFit\obj\Debug\Amos-ModelFit.pdb
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos-ModelFit.dll
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos-ModelFit.pdb
+C:\Users\squar\source\statsamos\model-fit\Amos-ModelFit\obj\Debug\Amos-ModelFit.vbproj.AssemblyReference.cache
+C:\Users\squar\source\statsamos\model-fit\Amos-ModelFit\obj\Debug\Amos-ModelFit.vbproj.CoreCompileInputs.cache
+C:\Users\squar\source\statsamos\model-fit\Amos-ModelFit\obj\Debug\Amos-ModelFit.dll
+C:\Users\squar\source\statsamos\model-fit\Amos-ModelFit\obj\Debug\Amos-ModelFit.pdb
