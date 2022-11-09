@@ -11,6 +11,7 @@ Imports System.Linq
 Public Class FitClass
     Implements Amos.IPlugin
     'This plugin was written by John Lim July 2016 for James Gaskin
+    'This plugin was updated 2022 by Joseph Steed
 
     Public Function Name() As String Implements Amos.IPlugin.Name
         Return "Model Fit Measures"
@@ -182,7 +183,7 @@ Public Class FitClass
         debug.PrintX("</td></tr><tr><td>PClose</td><td><0.01</td><td><0.05</td><td>>0.05</td></tr></table>")
         debug.PrintX("<p>*Note: Hu and Bentler (1999, ""Cutoff Criteria for Fit Indexes in Covariance Structure Analysis: Conventional Criteria Versus New Alternatives"") recommend combinations of measures. Personally, I prefer a combination of CFI>0.95 and SRMR<0.08. To further solidify evidence, add the RMSEA<0.06.</p>")
         debug.PrintX("<p>**If you would like to cite this tool directly, please use the following:")
-        debug.PrintX("Gaskin, J. & Lim, J. (2016), ""Model Fit Measures"", AMOS Plugin. <a href=\""http://statwiki.kolobkreations.com"">Gaskination's StatWiki</a>.</p>")
+        debug.PrintX("Gaskin, J., Lim, J., & Steed, J. (2016), ""Model Fit Measures"", AMOS Plugin. <a href=""http://statwiki.gaskination.com"">Gaskination's StatWiki</a>.</p>")
 
         'Write Style And close
         debug.PrintX("<style>h1{margin-left:60px;}table{border:1px solid black;border-collapse:collapse;}td{border:1px solid black;text-align:center;padding:5px;}th{text-weight:bold;padding:10px;border: 1px solid black;}</style>")
